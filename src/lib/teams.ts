@@ -1,14 +1,14 @@
 import type { Franchise } from "./types";
 
 export const FRANCHISES: Franchise[] = [
-  { id: "sahil", name: "Sahil Thunderbolts", short: "SAT", color: "#3b82f6" },
-  { id: "abhishek", name: "Abhishek Strategist", short: "ABS", color: "#06b6d4" },
+  { id: "sahil", name: "Sahil Thunderbolts", short: "ST", color: "#3b82f6" },
+  { id: "abhishek", name: "Abhishek Strategist", short: "AS", color: "#06b6d4" },
   { id: "atharva", name: "Atharva Rising Fury", short: "ARF", color: "#ef4444" },
-  { id: "ganesh", name: "Ganesh Firestorm", short: "GFS", color: "#f97316" },
+  { id: "ganesh", name: "Ganesh Firestorm", short: "GF", color: "#f97316" },
   { id: "mudra", name: "Mudra Mystiq Roses", short: "MMR", color: "#ec4899" },
-  { id: "prathamesh", name: "Prathamesh Royals", short: "PRR", color: "#eab308" },
+  { id: "prathamesh", name: "Prathamesh Royals", short: "PR", color: "#eab308" },
   { id: "pratik", name: "Pratik Spin Masters", short: "PSM", color: "#a855f7" },
-  { id: "omkar", name: "Omkar Predators", short: "OMP", color: "#991b1b" },
+  { id: "omkar", name: "Omkar Predators", short: "OP", color: "#991b1b" },
 ];
 
 /** Stable pseudo-personality per franchise for the AI. */
